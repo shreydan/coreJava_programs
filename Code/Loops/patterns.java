@@ -1,4 +1,5 @@
 // patterns
+// RUN it OR it WON'T make any SENSE.
 
 class patterns {
 
