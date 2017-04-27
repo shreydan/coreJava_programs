@@ -1,4 +1,4 @@
-# Java8-beginners
+# Core Java Programs
 
 All programs are written in Java 8. 
 Programs are useful for beginners in Java.
