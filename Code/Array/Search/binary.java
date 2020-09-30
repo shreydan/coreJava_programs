@@ -3,6 +3,7 @@ class binarysearch {
 	public int binary(int arr[], int n) {
 
 		// array has to be sorted in ascending order
+		//Please sort the array using bubble sort 
 		// returns position else -1
 		
 		int last = arr.length-1;
